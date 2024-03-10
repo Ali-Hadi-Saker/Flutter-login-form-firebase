@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "169103642051",
+    "project_id": "loginwithauthentication-d0adf",
+    "storage_bucket": "loginwithauthentication-d0adf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169103642051:android:18e31fad91f3ff6abb4176",
+        "android_client_info": {
+          "package_name": "com.example.login_form"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa116ajCtEukpgYlBk7XtW8Y-ih3FP-vQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
